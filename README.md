@@ -14,7 +14,11 @@ It seems almost certain that some clever people found clever solutions for such 
 
 - Such list should be simultaneously (automatically, who knows) maintained in various machine-friendly formats. A CSV table is the primary goal, a C/C++ `#include` header file immediately following, and if anybody would like to create an equivalent file or database for their preferred language, format or application it would be happily incorporated.
 
+- To collect public, open information (data or code) about the subject. 
+
 ## Data about characters
+
+I think the following data about each character would make for a useful table:
 
 - Official Unicode name
 - Codepoint
